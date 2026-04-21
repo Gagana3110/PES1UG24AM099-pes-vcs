@@ -1,6 +1,10 @@
 ## PES-VCS Lab Report
 Name: Gagana C
+
+
 SRN: PES1UG24AM099
+
+
 Platform: Ubuntu 24.04
 
 ---
